@@ -32,3 +32,4 @@ Travis is configured to run
 1. Edit `.travis.yml` so the repository and npm credentials match your project
     * Encrypting your NPM token requires the Travis CLI
 1. Edit `package.json` so that the package name, author, and repository match your project
+1. Disable `build config validation` in the Travis CI settings for the repository
