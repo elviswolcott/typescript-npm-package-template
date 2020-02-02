@@ -26,7 +26,7 @@ Checks code for style issues and syntax errors with TSLint and Prettier, attempt
 
 ## Publishing a new version
 
-Travis is configured to run
+Travis is configured to run deploys on tags.
 
 ## Initial Setup
 
