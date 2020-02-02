@@ -1,3 +1,5 @@
+[![Travis (.com)](https://img.shields.io/travis/com/<user>/<repo>?logo=travis)](https://travis-ci.com/<user>/<repo>)
+[![npm](https://img.shields.io/npm/v/<package>?label=<package>&logo=npm)](https://www.npmjs.com/package/<package>)
 # <package-name>
 
 > tagline
